@@ -12,3 +12,5 @@ The way I did it was to simply overwrite the default `simple` theme.
 For this you just need to copy the files from this repo's `searxng`
 into your searxng directory.
 
+After that, you'll need to run `npm run build` to build the css files.
+
